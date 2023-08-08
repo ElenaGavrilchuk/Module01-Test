@@ -6,7 +6,7 @@ body {
     display: flex;
     border-bottom: 1px solid #000;
     padding: 10px 20px;
-    font-weight: 20px;
+    
     align-items: center;
 }
 .logo {
@@ -14,7 +14,7 @@ body {
     text-decoration: none;
     color: lightgreen;
     background-color: rebeccapurple;
-    font-style: 700;
+    font-weight: 700;
     padding: 5px 15px;
 }
 ul {
