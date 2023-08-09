@@ -42,9 +42,9 @@ ul > li:last-child {
 .post {
     padding-bottom: 20px;
 }  
-.footer {
+ footer {
     font-size: 13px;
-    padding-left:  20px;
+    padding-left: 20px;
     padding-right: 20px;
 }
 a {
